@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/vincent10e/koa-react/issues"
   },
-  "homepage": "https://github.com/vincent10e/koa-react#readme"
+  "homepage": "https://github.com/vincent10e/koa-react#readme",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "koa-cors": "0.0.16",
+    "koa-route": "^3.2.0",
+    "webpack": "^2.3.2"
+  }
 }
