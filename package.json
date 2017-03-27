@@ -1,0 +1,23 @@
+{
+  "name": "koa-react",
+  "version": "1.0.0",
+  "description": "A example for Koa React Application\"",
+  "main": "index.js",
+  "scripts": {
+    "webserver": "node api/src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent10e/koa-react.git"
+  },
+  "keywords": [
+    "koa",
+    "react"
+  ],
+  "author": "Vincent Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincent10e/koa-react/issues"
+  },
+  "homepage": "https://github.com/vincent10e/koa-react#readme"
+}
